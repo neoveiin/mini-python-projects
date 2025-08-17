@@ -1,0 +1,27 @@
+[
+  {
+    "title": "3 idiots",
+    "genre": "inspiring",
+    "rating": "10"
+  },
+  {
+    "title": "hera pheri",
+    "genre": "comedy",
+    "rating": 10
+  },
+  {
+    "title": "phir hera pheri",
+    "genre": "comedy",
+    "rating": 9
+  },
+  {
+    "title": "kgf",
+    "genre": "action",
+    "rating": 10
+  },
+  {
+    "title": "toy story",
+    "genre": "animation",
+    "rating": 8
+  }
+]
