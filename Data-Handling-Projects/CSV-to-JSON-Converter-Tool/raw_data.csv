@@ -1,0 +1,16 @@
+email,name,id,location,is_active
+alice@example.com,Alice,1,New York,True
+bob@example.com,Bob,2,Los Angeles,False
+charlie@example.com,Charlie,3,Chicago,True
+diana@example.com,Diana,4,Houston,True
+eve@example.com,Eve,5,Phoenix,False
+frank@example.com,Frank,6,Philadelphia,True
+grace@example.com,Grace,7,San Antonio,False
+heidi@example.com,Heidi,8,San Diego,True
+ivan@example.com,Ivan,9,Dallas,True
+judy@example.com,Judy,10,San Jose,False
+karl@example.com,Karl,11,Austin,True
+laura@example.com,Laura,12,Jacksonville,False
+mallory@example.com,Mallory,13,Fort Worth,True
+niaj@example.com,Niaj,14,Columbus,True
+olivia@example.com,Olivia,15,Charlotte,False
