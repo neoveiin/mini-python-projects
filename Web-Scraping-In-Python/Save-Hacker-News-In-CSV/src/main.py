@@ -17,7 +17,7 @@ def fetch_posts():
     
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    return soup.find_all("span", class_="titleline")
+    return soup.select("span.titleline > a")
 
 
 
